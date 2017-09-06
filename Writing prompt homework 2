@@ -1,0 +1,43 @@
+For
+
+“For” loop is a set of instructions that the program executes multiple times until the 
+condition that you set has been net, then it will exit your loop and move to the next line 
+of code.
+
+
+&&, ||, !
+
+“&&” is an operator that you use to compare 2 conditions in your statement, and if BOTH 
+conditions are met, you condition is assigned the value “true”, and it will execute the 
+lines of codes that comes after.  If one of the conditions is not met, then the value 
+becomes “false”, and it will skip the lines of codes within your statement.
+
+“||” is an operator used to compare 2 conditions, and if EITHER ONE or BOTH conditions are 
+met, the condition is assigned the value of “true” and the lines of codes are executed. If 
+neither of the conditions are met, the value is “false”.
+
+“!” is an operator to assign the opposite value of the condition.  It returns “true” if the 
+condition is false, and “false” if the condition is true.
+
+
+Arrays
+
+An array is a variable which you can assign multiple values or items like a list.  It is 
+assigned with values using “[ ]” and each value is separated by a comma.
+
+
+Git
+
+Git is an application that you install in your computer to write and edit programming codes
+that you can share in cloud services.  This application allows you to write your own version 
+of your codes before you share it with others.
+
+
+GitHub
+
+GitHub is an online site where you can collaborate with other people with your programming 
+codes.  It allows people to share their own version of the program that you are all working 
+on.  There will be a primary owner (master) of the codes that you all work on, and he/she 
+will maintain the main copy of the codes.  You and others can copy, review, edit or make 
+changes to those versions of the files that you have copied, while keeping the master copy 
+intact without changes, until the primary owner decides to.
